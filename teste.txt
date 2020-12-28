@@ -1,0 +1,20 @@
+<div class="w3-row">
+            <div class="w3-col m6 w3-center w3-padding-large">
+                <p><b><i class="w3-margin-right"></i>_</b></p><br>
+                <img src="https://nova-escola-producao.s3.amazonaws.com/aRhmZ7ftT455dA9GMm9d5pjs9bhsYQyfcPupCZgCK8sZMjC2VDMMRTqrxpzg/historia-rio-de-janeiro-centro-260.jpeg" class="w3-round w3-image w3-hover-opacity" onclick="onClick(this)" alt="Rio de Janeiro" width="500"
+                    height="333">
+            </div>
+
+            <div class="w3-col m6 w3-center w3-padding-large">
+                <p><b><i class="w3-margin-right"></i>_</b></p><br>
+                <img src="https://4.bp.blogspot.com/-THQ5JJ8nZH0/UyvQ0gT179I/AAAAAAAASSQ/gCq5DqDSAc8/s1600/01-1a_charles-marville_rue-champlain_paris-1872.jpg" class="w3-round w3-image w3-hover-opacity" onclick="onClick(this)" alt="Cortiço" width="500" height="333">
+            </div>
+
+            <!-- Hide this text on small devices 
+            <div class="w3-col m6 w3-hide-small w3-padding-large">
+                <p>Welcome to my website. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing
+                    elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+            -->
+</div>
