@@ -1957,3 +1957,11 @@ a {
 .w3-hover-border-pale-blue:hover {
     border-color: #e7ffff!important
 }
+
+.spotify-box {
+    color: black;
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    z-index: 10;
+}
